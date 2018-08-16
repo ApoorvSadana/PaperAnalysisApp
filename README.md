@@ -3,7 +3,6 @@
 **Apoorv Sadana**
 
 
-
 **ABSTRACT**
 
 The growth of artificial intelligence over the years has managed to solve some of the most difficult problems in the field of technology. The applications of machine learning are vast. This paper attempts to propose a way to use artificial intelligence to increase the efficiency of paper analysis. The aim of the paper is to use machine learning and image processing for the effective digital transformation of answer papers after a test. In a large portion of schools in India, after every test correction there are  certain procedures that need to be followed. These procedures make the task cumbersome, time consuming and prone to errors. In order to tackle the problem, a program was developed to work on the scanned copies of answer scripts for generating an excel file consisting of the analyzed data.
