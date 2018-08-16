@@ -221,8 +221,12 @@ _Fig 12._
 
 ![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image3.jpg?raw=true)
 
+_Fig 13._
+
 Clicking on H6 gives
 
 ![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image2.jpg?raw=true)
 
-_                     Fig 13.                                                        Fig 14._
+_Fig 14._
+
+
