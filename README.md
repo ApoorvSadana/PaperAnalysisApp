@@ -37,13 +37,13 @@ In order to collect all the relevant data in one place, a new column was added t
 
 **Old answer script**
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image21.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image21.jpg?raw=true)
 
 _Fig 1. Questions numbers are written in the left margin and the marks are written along with the answers_
 
 **Redesigned answer script**
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image2.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image2.jpg?raw=true)
 
 _Fig 2. Question numbers in left column of table and marks in tight column of table_
 
@@ -51,7 +51,7 @@ Also, the first page of the answer script was modified to include the admission 
 
 **First page of answer script**
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image7.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image7.jpg?raw=true)
 
 _Fig 3. The first page of answer script consists of the admission number of the student_
 
@@ -153,19 +153,19 @@ GUI Demonstration
 
 **1. Input**
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image7.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image7.jpg?raw=true)
 
 1
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image2.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image2.jpg?raw=true)
 
 2                                                                              
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image8.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image8.jpg?raw=true)
 
 3
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image3.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image3.jpg?raw=true)
 
 4
 
@@ -219,10 +219,10 @@ _Fig 12._
                                                              
  Clicking on D4 gives  
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image3.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image3.jpg?raw=true)
 
 Clicking on H6 gives
 
-![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image2.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/PaperAnalysisApp/blob/master/images/image2.jpg?raw=true)
 
 _                     Fig 13.                                                        Fig 14._
